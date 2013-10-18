@@ -40,5 +40,5 @@ plt.ylabel('Frecuencia en "Top 20"', fontdict={'fontsize':18})
 plt.xlabel(u"Canción", fontdict={'fontsize':22})
 
 ppl.bar(ax, np.arange(len(y)), y, grid="y")
-fig.tight_layout()
+#fig.tight_layout()
 fig.savefig("top20.png")

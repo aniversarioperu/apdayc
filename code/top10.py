@@ -16,6 +16,7 @@ ranks = ["1","2","3","4","5","6","7","8","9","10","maxima"]
 with open("all_data.csv", "rb") as csvfile:
     f = csv.reader(csvfile, delimiter=",")
     for row in f:
+        print row
         if row[0] in ranks:
             x.append(row[1])
 

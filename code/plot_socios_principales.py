@@ -4,9 +4,18 @@ import locale
 import prettyplotlib as ppl
 import numpy as np
 from prettyplotlib import plt
+import argparse
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
+parser = argparse.ArgumentParser(description="""Extraer estadísticas de la
+            lista de los top 250 que se llevan más regalías""")
+parser.add_argument("total_socios",
+                    type = int,
+                    help = "número total de socios en APDAYC")
+args = parser.parse_args()
+
+total_numero_de_socios = args.total_socios
 
 f = codecs.open("output/tmp_socios_principales.txt", encoding="utf-8")
 data = f.read()
@@ -182,7 +191,7 @@ print output
 # Memoria 2012, pagina 22, regalías distribuidas en el 2012:
 # 29,197,272 soles
 total_money = 29197272.0
-total_socios = 8000.0
+total_socios = float(total_numero_de_socios)
 
 # Tenemos socios principales + vitalicios + activos
 print "Total socios con voto privilegiado:"
