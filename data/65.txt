@@ -1,0 +1,28 @@
+maxima,princesa
+1,caprichos del corazon
+1,tu poeta
+2,mi corazon esta llorandote
+2,te olvidare
+3,vivir mi vida
+4,hay que saber perder
+4,cuando me acuerdo de ti
+5,hasta el fin del mundo
+6,lastima
+7,festroni-k
+8,algo que decir
+9,asi no
+10,me enamore
+10,para siempre
+11,el amor mas grande del planeta
+12,lo que un dia fue no sera
+13,angel en zapatillas
+13,el tiempo
+14,ella se fue llorando
+15,si tu me faltas
+15,vete
+16,zumba
+17,te extrano tanto
+17,perdon
+18,amigo mio
+19,carita de pasaporte
+20,soy soltera y hago lo

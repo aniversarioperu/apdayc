@@ -1,0 +1,16 @@
+maxima,tu nombre
+1,el baile del tao/el meneito arrebatao
+2,vete lejos
+3,aprendere
+4,leyes del corazon
+5,mi estrella
+6,el amor esta pero viene y se va
+7,como le explico a mi corazon
+8,el dinero
+9,el baile de la gallina
+10,alejate de mi
+11,diganle
+12,tu me cambiaste la vida
+13,bara bere
+14,cuando el amor se acaba
+15,domitila

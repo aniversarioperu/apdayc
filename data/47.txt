@@ -1,0 +1,16 @@
+maxima,mix celeste
+1,el dinero
+2,cuando el amor se acaba
+3,aprendere
+4,fria
+5,aguita de coco
+6,se fue mi amor
+7,leyes del corazon
+8,alejate de mi
+9,el baile del tao/el meneito arrebatao
+10,un loco amor
+11,vete lejos
+12,hasta que salga el sol
+13,limbo
+14,llora llora corazon
+15,tu nombre
